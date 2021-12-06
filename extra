@@ -1,0 +1,570 @@
+ <section class="portfolioBlock pt-7 pb-3 pt-md-12 pb-md-7 pt-lg-17 pb-lg-12 pt-xl-23 pb-xl-18">
+        <div id="works" class="mt-n43 pt-43">
+            <div class="container">
+                <!-- filterHead -->
+                <header class="filterHead mb-10">
+                    <div class="row align-items-md-end">
+                        <div class="col-12 col-lg-5">
+                            <h2 class="text-capitalize">
+                                <!-- headingTitle -->
+                                <strong
+                                    class="fwMedium d-block text-white position-relative headingTitle text-capitalize mb-3 wow fadeInRight">Skins</strong>
+                                <span class="d-block wow fadeInUp" data-wow-delay="0.5s">All My life's Hard Work!</span>
+                            </h2>
+                        </div>
+                        <div class="col-12 col-lg-12">
+                            <!-- filtersList -->
+                            <ul class="list-unstyled filtersList isoFiltersList d-flex flex-wrap justify-content-lg-end text-uppercase fwMedium text-white wow bounceInUp"
+                                data-wow-delay="1s">
+                                <li class="active">
+                                    <a href="%3D_javascript_void%280/">ALL</a>
+                                </li>
+                                <li>
+                                    <a href="%3D_javascript_void%280/" data-filter=".wbdesign">SMG</a>
+                                </li>
+                                <li>
+                                    <a href="%3D_javascript_void%280/" data-filter=".gdesign">AR Guns</a>
+                                </li>
+                                <li>
+                                    <a href="%3D_javascript_void%280/" data-filter=".programming">SHOUTGUNS</a>
+                                </li>
+                                <li>
+                                    <a href="%3D_javascript_void%280/" data-filter=".events">SNIPERS</a>
+                                </li>
+                                <li>
+                                    <a href="%3D_javascript_void%280/" data-filter=".aftereffects">PET SKINS</a>
+                                </li>
+                                <!-- <li>
+                                    <a href="%3D_javascript_void%280/" data-filter=".videoediting">VIDEO EDITING</a>
+                                </li> -->
+                            </ul>
+                        </div>
+                    </div>
+                </header>
+                <div class="wow fadeInUp">
+                    <!-- isoContentHolder -->
+                    <div class="row isoContentHolder">
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/mp40.png" class="img-fluid" alt="MP40">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">MP40</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">Mechenical
+                                            MP40</h4>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 bran programming isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/mp5.png" class="img-fluid" alt="MP5">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">MP5</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">PINK BARRAGE MP5</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/624YJ7PLWJGM" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign events isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/ump.png" class="img-fluid" alt="UMP">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">UMP</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">UMP-ART OF WAR </h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.cert.shapeai.cf/verify/16lHi6" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+
+
+                        <div class="col-12 col-sm-6 col-lg-4 gdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/p90.png" class="img-fluid" alt="P90">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">P90</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">THE GOLDEN P90</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.ude.my/UC-484d99ec-b303-4cc2-aef6-9bc297bfb9f9" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/vss.png" class="img-fluid" alt="VSS">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">VSS</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">VSS-STAR GENERAL</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/4XG88AQ4MB8A" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign events isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/ak.png" class="img-fluid" alt="AK">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">AK-47</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">FLAMING DRAGON AK</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://futureskillsprime.edcast.com/verify_badge/sOe6JpF_" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign events isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/an94.png" class="img-fluid" alt="AN94">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">AN94</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">AN94-SPIKEY SPINE</h4>
+                                        <!-- <br><a style="color: #ffffff;" >Certificate No. LUJS0421A061</a> -->
+                                        <!-- <br><a style="color: #ffffff;" href="https://letsupgrade.in/verify" target="_blank">Verify Certificate</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign events isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/aug.png" class="img-fluid" alt="AUG">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">AUG</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">AUG-MR. NUTCRACKER</h4>
+                                        <!-- <br><a style="color: #ffffff;" >Certificate No. 3RSTYAGDLR</a> -->
+                                        <!-- <br><a style="color: #ffffff;" href="https://truecertificates.com/verification" target="_blank">Verify Certificate</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+
+
+                        <div class="col-12 col-sm-6 col-lg-4 programming wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/famus.png" class="img-fluid" alt="FAMAS">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">FAMAS</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">TEENAGE DREAM FAMAS</h4>
+                                        <!-- <br><a>ID - github workshopciscertl140</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 programming events isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/groza.png" class="img-fluid" alt="GROZA">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">GROZA</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">GROZA-OPERAND SHENG</h4>
+                                        <!-- <br><a>ID - 76465623</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 programming events isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/m4a1.png" class="img-fluid" alt="M4A1">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">M4A1</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">M4A1-SCORCHING SANDS</h4>
+                                        <br><a style="color: #ffffff;"
+                                            href="www.guvi.in/certificate?id=43N27kVX95yn156H12" target="_blank">See
+                                            credential</a>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+
+                        <div class="col-12 col-sm-6 col-lg-4 programming wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/scar.png" class="img-fluid" alt="SCAR">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">SCAR</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">SCAR-WATER ELEMENTAL</h4>
+                                        <!-- <br><a>ID - 79</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+
+                        <div class="col-12 col-sm-6 col-lg-4 programming events isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/xm8.png" class="img-fluid" alt="XM8">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">XM8</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">XM8-LIVELY BEAST</h4>
+                                        <!-- <br><a>ID - RPH/2021/85</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/m14.png" class="img-fluid" alt="M14">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">M14</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">M14-EGG HUNTER</h4>
+                                        <!-- <br><a style="color: #ffffff;">Ref No. : HR/22401202/T003</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 gdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/sks.png" class="img-fluid" alt="SKS">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">SKS</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">SKS-URBAN RANGER</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verif y/4NA7S9NGE4R9" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/koard.png" class="img-fluid" alt="KORD">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">KORD</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">KORD-MERCILESS MECROMANCER</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/m60.png" class="img-fluid" alt="M60">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">M60</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">M60-GOLD COATED</h4>
+                                        <br><a style="color: #ffffff;"
+                                            href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See
+                                            credential</a>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/m1014.png" class="img-fluid" alt="M1014">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">M1014</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">M1014-APOCALYPTIC GREEN</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/spas12.png" class="img-fluid" alt="SPAS12">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">SPAS12</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">BUMBLEBEE: SWARAM</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/AWM.png" class="img-fluid" alt="AWM">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">AWM</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">AWM-VALENTINES</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/kar98.png" class="img-fluid" alt="KAR98">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">KAR98</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">KAR98-ICE BLUE</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/m82b.png" class="img-fluid" alt="M82B">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">M82B</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">M82B-DRAGON MOB</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/gwall.png" class="img-fluid" alt="GLOW WALL">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">GLOW WALL</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">GLOO WALL- DRAGON SEAL</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/mrwagger.png" class="img-fluid" alt="MR. WAGGAR">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">MR. WAGGAR</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">Give Gloo wall</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/shiba.png" class="img-fluid" alt="SHIBA">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">SHIBA</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">mark mashrooms in map</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/panda.png" class="img-fluid" alt="PANDA">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">PANDA</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">Give 10HP Every kill</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/sprit fox.png" class="img-fluid" alt="FOX">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">FOX</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">Restore 10HP extra in healing</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/dog.png" class="img-fluid" alt="DOG">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">DOG</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0"></h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/penthar.png" class="img-fluid" alt="PENTHAR">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">PENTHAR</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">increace 45% space in bag</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/falco.png" class="img-fluid" alt="FALCON">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">FALCON</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0">50% increace gliding speed</h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-12 col-sm-6 col-lg-4 wbdesign isoCol">
+                            <!-- mcwColumn -->
+                            <article class="position-relative mcwColumn text-center mb-6">
+                                <div class="imgHolder">
+                                    <img src="./images/guns/kitti.png" class="img-fluid" alt="KITTI">
+                                </div>
+                                <!-- mcwcCaption -->
+                                <div class="mcwcCaption text-white position-absolute d-flex align-items-center">
+                                    <div class="mcwccWrap w-100 p-3">
+                                        <h3 class="text-white text-capitalize fwMedium title">KITTI</h3>
+                                        <h4 class="text-white text-capitalize fwMedium subTitle mb-0"></h4>
+                                        <!-- <br><a style="color: #ffffff;" href="https://www.coursera.org/verify/BXGQJF6EJRUU" target="_blank">See credential</a> -->
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- include jQuery library -->
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <!-- include bootstrap popper JavaScript -->
+    <script src="js/popper.min.js"></script>
+    <!-- include bootstrap JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- include custom JavaScript -->
+    <script src="js/jqueryCustom.js"></script>
+    <!-- include fontAwesome -->
+    <script src="https://kit.fontawesome.com/391f644c42.js"></script>
